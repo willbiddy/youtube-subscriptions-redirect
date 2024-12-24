@@ -23,4 +23,4 @@ git clone https://github.com/willbiddy/youtube-subscriptions-redirect.git
 
 ## Attributions
 
-[Youtube icon created by Md Tanvirul Haque - Flaticon](https://www.flaticon.com/free-icons/youtube)
+[Youtube icon created by Md Tanvirul Haque - Flaticon](https://www.flaticon.com/free-icon/youtube_3670147)
